@@ -1,7 +1,8 @@
 # EMBEDDED
 
 ## blink an LED
-![image](https://user-images.githubusercontent.com/116477443/208901150-f824dd24-1731-40e7-9b0a-459ee5dfb4fd.png)
+![image](https://user-images.githubusercontent.com/116477443/208928943-f24171db-2608-4c65-93d1-95931978936b.png)
+
 ## control a LED with a button
 ![image](https://user-images.githubusercontent.com/116477443/208917203-0b7fbc7d-964e-41c8-be56-d174529fb2e4.png)
 ## control a LED with potentiometer
