@@ -3,4 +3,9 @@
 ## blink an LED
 ![image](https://user-images.githubusercontent.com/116477443/208901150-f824dd24-1731-40e7-9b0a-459ee5dfb4fd.png)
 ## control a LED with a button
-![image](https://user-images.githubusercontent.com/116477443/208914670-cd550f2b-280a-4d4a-94c9-e8523fdf9744.png)
+![image](https://user-images.githubusercontent.com/116477443/208917203-0b7fbc7d-964e-41c8-be56-d174529fb2e4.png)
+## control a LED with potentiometer
+![image](https://user-images.githubusercontent.com/116477443/208917273-c3531cf7-cf20-4a31-9abe-a0c9bc83ba5b.png)
+## measure temperature using thermistor
+![image](https://user-images.githubusercontent.com/116477443/208921995-8c229c23-62a6-4947-afa4-e49d6be2889e.png)
+
